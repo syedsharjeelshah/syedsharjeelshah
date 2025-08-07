@@ -35,11 +35,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats + Visual
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedsharjeelshah&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=syedsharjeelshah&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="42%"/>
 </p>
 
 ---
@@ -50,20 +50,26 @@
   <a href="https://www.linkedin.com/in/syed-sharjeel-zaidi-bb8193a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:idk.may.be.sharji1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/SyedSharjeelShah" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://instagram.com/idk_may_be_sharjil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔥 Quote I Live By
-> _"The quieter you become, the more you can hear. Red Teamers don't make noise; they leave traces."_  
-> — Unknown Hacker
+### 🧠 Quote I Live By
+
+> **"It's Impossible," said Pride.**  
+> **"It's Risky," said Experience.**  
+> **"It's Pointless," said Reason.**  
+> **If you're a Hacker... Then give it a Try! 💻**
 
 ---
 
-### 🐍 Snake Contribution Graph (Optional Addon)
+### 🕶️ Anonymous Mode
 
-```html
-<!-- GitHub Snake Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/syedsharjeelshah/syedsharjeelshah/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+```diff
+- Knowledge is Free
+- We are Anonymous
+- We are Legion
+- We don’t 4give
+- We don’t 4get
+- Expect Us ⚔️
