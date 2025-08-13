@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Syed Sharjeel Zaidi</h1>
-<h3 align="center">Red Team Learner | BioSec 🧬 | CEH Student | Payload Crafter | OSINT Hunter</h3>
+<h1 align="center" style="font-size:40px;">Hi 👋, I'm <b>Syed Sharjeel Zaidi</b></h1>
+<h2 align="center" style="font-size:24px;">Red Team Learner | BioSec 🧬 | CEH Student | Payload Crafter | OSINT Hunter</h2>
 
+<!-- Dark Terminal Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=🔴+Red+Teaming+Enthusiast;🛠️+Building+Security+Labs+%26+Payloads;📡+Doing+OSINT+Recon+Daily;💣+Post+Exploitation+%7C+Metasploit;⚙️+Always+Learning+%26+Sharing" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=900&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=60&lines=$+whoami;Syed+Sharjeel+Zaidi;Red+Team+Learner+%7C+OSINT+Hunter;payloads%24+post-exploitation%24+;sudo+hack+the+planet"
+    alt="terminal typing animation"
+  />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🎯 **Focused On:** Web Exploits • Payloads • Post-Exploitation • OSINT • Red Team Operations  
 - 🧰 **Tools:** Kali, Metasploit, BurpSuite, Nmap, Wireshark, Python, Shell  
@@ -17,14 +21,7 @@
 
 ---
 
-### 🚀 Projects I'm Working On
-
-- [`MidnightRAT-Payload`](https://github.com/syedsharjeelshah/MidnightRAT-Payload) - 🧠 Custom Post-Exploitation Tool  
-- [`NightFox`](https://github.com/syedsharjeelshah/nightfox) - 🦊 Shell automation scripts & payload dropper  
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -35,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats + Visual
+## 📊 GitHub Stats + Visual
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syedsharjeelshah&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -44,7 +41,7 @@
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-sharjeel-zaidi-bb8193a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -55,7 +52,18 @@
 
 ---
 
-### 🧠 Quote I Live By
+## 🏅 Certifications & Learning Tracker
+
+| Certification | Status | Evidence / Link |
+|---|---|---|
+| ![CEH](https://img.shields.io/badge/CEH%20v12-In%20Progress-orange?logo=EC-Council&logoColor=white) | ████████░░ 80% | Notes: `CEH-Labs/` |
+| ![eJPT](https://img.shields.io/badge/eJPT-Planning-blue?logo=ine&logoColor=white) | ███░░░░░░ 30% | Roadmap: `plans/ejpt.md` |
+| ![THM](https://img.shields.io/badge/TryHackMe-Daily%20Streak-success?logo=tryhackme) | ████████░░ 75% | [Profile](https://tryhackme.com/p/SyedSharjeelShah) |
+| ![Kali](https://img.shields.io/badge/Kali%20Labs-Ongoing-informational?logo=kalilinux) | ██████░░░░ 60% | Lab repo: `labs/` |
+
+---
+
+## 🧠 Quote I Live By
 
 > **"It's Impossible," said Pride.**  
 > **"It's Risky," said Experience.**  
@@ -64,7 +72,7 @@
 
 ---
 
-### 🕶️ Anonymous Mode
+## 🕶️ Anonymous Mode
 
 ```diff
 - Knowledge is Free
